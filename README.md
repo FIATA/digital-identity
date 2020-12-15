@@ -1,1 +1,1 @@
-# digital-identity
+# FIATA Digital Identity
